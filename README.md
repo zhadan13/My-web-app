@@ -1,1 +1,1 @@
-Simple Java Web Application written on servlets and jsp
+Simple Java Web Application written on Servlets and JSP
